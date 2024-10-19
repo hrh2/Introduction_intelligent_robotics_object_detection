@@ -1,0 +1,4 @@
+#ANPR/footage/*.mp4
+ANPR/footage/In-Transit-Vehicle-Plate-Captures-\[001\].mp4
+models/*.pt
+.venv
