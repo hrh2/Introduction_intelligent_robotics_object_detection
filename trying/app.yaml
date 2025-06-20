@@ -1,6 +1,0 @@
-train: D:/Embedded/objectDetection/train/images
-val: D:/Embedded/objectDetection/valid/images
-test: D:/Embedded/objectDetection/test/images
-
-nc: 1
-names: ['landslide']
